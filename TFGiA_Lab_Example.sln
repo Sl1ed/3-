@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TFGiA_Lab_Example", "TFGiA_Lab_Example\TFGiA_Lab_Example.csproj", "{A747D1C3-F879-4F63-9D8C-4B82A46AA6E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A747D1C3-F879-4F63-9D8C-4B82A46AA6E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A747D1C3-F879-4F63-9D8C-4B82A46AA6E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A747D1C3-F879-4F63-9D8C-4B82A46AA6E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A747D1C3-F879-4F63-9D8C-4B82A46AA6E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97C803B2-2D32-4DB4-89D5-E05FFCE839CC}
+	EndGlobalSection
+EndGlobal
